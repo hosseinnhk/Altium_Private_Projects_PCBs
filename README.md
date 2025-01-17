@@ -18,10 +18,10 @@ Energy Router is a power electronics device designed to facilitate the integrati
 ![Image](https://github.com/user-attachments/assets/f63ab46b-c9cd-42a8-b6f0-8ac02d5e767d)
 
 ### 2. Wall-Mounted Gas Boiler PCB without Display
-- **Image:** ![Image](https://github.com/user-attachments/assets/2ba80a97-81fe-4ce3-8992-2dbb2f2b2e17)
+
 
 ### 3. Wall-Mounted Gas Boiler PCB with a Integerated Display
-
+- **Image:** ![Image](https://github.com/user-attachments/assets/2ba80a97-81fe-4ce3-8992-2dbb2f2b2e17)
 
 ### 3. Wall-Mounted Gas Boiler PCB 
 - **Image:**  ![Image](https://github.com/user-attachments/assets/284048dc-8147-4bf2-9713-e40bb50ca19a)
