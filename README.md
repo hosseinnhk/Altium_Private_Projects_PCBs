@@ -17,7 +17,8 @@ The PCB designs showcased in this repository are private and not available for p
 
 ### 3. Wall-Mounted Gas Boiler PCB with Display 
 - **Power Board Image:** ![Image](https://github.com/user-attachments/assets/a3199459-7708-4134-9c32-35ae4f3f55e1)
-- **Display Board Image:** ![Image](https://github.com/user-attachments/assets/b7e107d8-07dc-4f33-8e3a-a6f7a73291ba)
+
+- **Display Board Image:**![Image](https://github.com/user-attachments/assets/b7e107d8-07dc-4f33-8e3a-a6f7a73291ba)
  
 ### 4. Wall-Mounted Gas Boiler PCB with Display
 - **Image:** 
