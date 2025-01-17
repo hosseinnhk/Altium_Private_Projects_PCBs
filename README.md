@@ -8,8 +8,17 @@ The PCB designs showcased in this repository are private and not available for p
 
 ### 1. Energy Router PCB  
 - **Note:** This project is developed in collaboration with Dr. Oleksandr Husev and Dr. Oleksandr Matiushkin.
-- **Description:** Control system for wall-mounted gas boilers, featuring CO2 emission measurement, auto ignition, and safety mechanisms.
-- **Highlights:** Temperature control, radiators circulation, and hot water flow management.
+## Overview
+Energy Router is a power electronics device designed to facilitate the integration of renewable energy sources and energy storage systems with the AC grid. It features three power modules for interfacing with PV systems and battery storage, as well as a bi-directional AC/DC converter for efficient energy management.
+
+## Features
+- **Designed for:** Renewable energy and energy storage integration
+- **Technology:** Altium Designer
+- **Functionality:** Energy routing and conversion
+- **Key Components:**
+  - Three power modules for PV systems and battery storage
+  - Bi-directional AC/DC converter for grid integration
+  - High efficiency and modular design
 - **Image:** ![Image](https://github.com/user-attachments/assets/01eeb5bd-922d-4b10-b39e-4703d2a69b77)
 - **Layers:** ![Image](https://github.com/user-attachments/assets/d9ea6c5b-e7a0-4407-9282-4b8893c77a95)
 ![Image](https://github.com/user-attachments/assets/f8cf6126-527a-4c89-a410-3e261bd21eff)
