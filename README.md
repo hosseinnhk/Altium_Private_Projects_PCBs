@@ -10,7 +10,7 @@ The PCB designs showcased in this repository are private and not available for p
 - **Note:** This project is developed in collaboration with Dr. Oleksandr Husev and Dr. Oleksandr Matiushkin.
 
 Energy Router is a power electronics device designed to facilitate the integration of renewable energy sources and energy storage systems with the AC grid. It features three power modules for interfacing with PV systems and battery storage, as well as a bi-directional AC/DC converter for efficient energy management.
-- **Image:** ![Image](https://github.com/user-attachments/assets/01eeb5bd-922d-4b10-b39e-4703d2a69b77)
+- **3D View:** ![Image](https://github.com/user-attachments/assets/01eeb5bd-922d-4b10-b39e-4703d2a69b77)
 - **Layers:** ![Image](https://github.com/user-attachments/assets/d9ea6c5b-e7a0-4407-9282-4b8893c77a95)
 ![Image](https://github.com/user-attachments/assets/f8cf6126-527a-4c89-a410-3e261bd21eff)
 ![Image](https://github.com/user-attachments/assets/b26240c3-e349-4f8b-ab0b-e7161bf807cc)
