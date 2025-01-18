@@ -1,6 +1,4 @@
-# Altium-Private-Projects-PCB-Images
-
-# Private PCB Projects Overview
+# Overview
 
 The PCB designs showcased in this repository are private and not available for public use or distribution. These images are shared to highlight the scope and capabilities of the projects.
 
