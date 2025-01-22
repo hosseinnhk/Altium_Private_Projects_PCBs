@@ -33,13 +33,16 @@ Energy Router is a power electronics device designed to facilitate the integrati
 - **Display Board Image:** <br />
   ![Image](https://github.com/user-attachments/assets/b7e107d8-07dc-4f33-8e3a-a6f7a73291ba)
 
-- **IoT Smart Fridge Power Board and Display Board:** <br />
+- **IoT Smart Fridge Power Board:** <br />
 ![Image](https://github.com/user-attachments/assets/52d71a2f-7f63-41d9-8f07-f774b2fd3fb0)
 ![Image](https://github.com/user-attachments/assets/4cb1c3b5-2f48-49b9-8120-1bf89f78ae24)
+![Image](https://github.com/user-attachments/assets/97feb3f1-4e54-47b5-8528-282607bc1abf)
+
+- **IoT Smart Fridge Display Board:** <br />
 ![Image](https://github.com/user-attachments/assets/bfc12261-5de8-4dc6-9a77-c253fd74a8c9)
 ![Image](https://github.com/user-attachments/assets/c2c376c2-3e01-4ce2-a457-b01c3ad271a2)
 ![Image](https://github.com/user-attachments/assets/389f8447-bf9a-4024-aac8-0d314c1ec53e)
-![Image](https://github.com/user-attachments/assets/97feb3f1-4e54-47b5-8528-282607bc1abf)
+
 
 - ** IoT Fridge Functionality Tester:
 ![Image](https://github.com/user-attachments/assets/ef184003-e2cd-4b6e-a8c1-de578050b970)
