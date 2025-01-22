@@ -32,5 +32,7 @@ Energy Router is a power electronics device designed to facilitate the integrati
 
 - **Display Board Image:** <br />
   ![Image](https://github.com/user-attachments/assets/b7e107d8-07dc-4f33-8e3a-a6f7a73291ba)
+
+- ** IoT Smart Fridge Power board and display board: 
  
 
